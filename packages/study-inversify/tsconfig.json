@@ -2,10 +2,11 @@
   "compilerOptions": {
     "target": "es5",
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
-    "types": ["reflect-metadata"],
+    "types": ["reflect-metadata", "mocha", "chai"],
     "module": "commonjs",
     "moduleResolution": "node",
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true
-  }
+  },
+  "include": ["src", "test"]
 }
