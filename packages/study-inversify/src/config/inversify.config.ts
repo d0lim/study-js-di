@@ -1,4 +1,5 @@
 import { Container } from "inversify";
+import "reflect-metadata";
 import { Katana } from "../entities/katana.entity";
 import { Ninja } from "../entities/ninja.entity";
 import { Shuriken } from "../entities/shuriken.entity";
