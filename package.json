@@ -1,0 +1,9 @@
+{
+  "name": "study-js-di",
+  "version": "1.0.0",
+  "main": "index.js",
+  "workspaces": ["packages/*"],
+  "repository": "https://github.com/d0lim/study-js-di.git",
+  "author": "d0lim <limdongyoung0@gmail.com>",
+  "license": "MIT"
+}
